@@ -24,7 +24,6 @@ public class ArraysExamples {
   }
 
   public static void main(String[] args) {
-    List
     int n;
     Scanner input = new Scanner(System.in);
     System.out.print("N = ");
