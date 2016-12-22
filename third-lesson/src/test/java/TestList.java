@@ -10,7 +10,7 @@ import org.junit.runners.BlockJUnit4ClassRunner;
  * Created by dmladeno on 20.12.2016.
  */
 @RunWith(BlockJUnit4ClassRunner.class)
-public class CustomListTest {
+public class TestList {
 
 
 
