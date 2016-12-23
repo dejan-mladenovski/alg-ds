@@ -1,9 +1,6 @@
-package test;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.BlockJUnit4ClassRunner;
-
-import main.main.CustomList;
 
 import static org.junit.Assert.*;
 
